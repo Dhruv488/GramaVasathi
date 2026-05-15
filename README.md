@@ -76,7 +76,7 @@ Ensure the following are installed:
 Open your terminal and run:
 
 ```bash
-git clone https://github.com/your-username/GramaVasathi.git
+git clone https://github.com/Dhruv488/GramaVasathi.git
 ```
 
 ### 3. Open the Project
