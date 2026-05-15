@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "631116741013",
+    "project_id": "gramavasathi-7f740",
+    "storage_bucket": "gramavasathi-7f740.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:631116741013:android:5a0c19b40639d73af49e9c",
+        "android_client_info": {
+          "package_name": "com.dhruv.gramavasathi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBvvLKXKWP-_NRNh2v8fv1TdYS_KuIdFs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
