@@ -1,4 +1,4 @@
-# Grama Vasathi 🌾
+# Grama Vasathi 
 
 Grama Vasathi is an Android application built using Kotlin and Jetpack Compose that focuses on rural tourism and farm stay experiences.
 
